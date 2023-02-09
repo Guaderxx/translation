@@ -1,5 +1,7 @@
 # 分析文件引导优化
 
+> [原文 https://go.dev/doc/pgo](https://go.dev/doc/pgo)
+
 从Go1.20开始，Go编译器支持分析文件引导优化(profile-guided optimization *PGO*)以进一步优化构建。
 
 注意：从Go1.20开始，PGO处于公开预览阶段(public preview)。
