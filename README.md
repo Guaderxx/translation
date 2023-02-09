@@ -5,3 +5,4 @@
 
 
 - [golang/pgo](https://github.com/Guaderxx/translation/blob/master/golang/profile-guided_optimization.md)
+- [golang/diagnostics](https://github.com/Guaderxx/translation/blob/master/golang/diagnostics.md)
